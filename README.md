@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-https://zahidkhan262.github.io/todolistReact/
 
+for todo list
+https://zahidkhan262.github.io/todolistReact/
+ for CRUD app
+ https://flamboyant-einstein-6a1fd4.netlify.app/
 In the project directory, you can run:
 
 ### `npm start`
